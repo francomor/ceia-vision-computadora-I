@@ -1,0 +1,13 @@
+[project]
+name = "vision-computadora"
+version = "0.1.0"
+description = "CEIA - TPs vision por computadora"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.0",
+    "numpy>=2.5.0",
+    "opencv-python>=4.13.0.92",
+    "pyqt6>=6.11.0",
+]
